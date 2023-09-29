@@ -1,0 +1,17 @@
+.space {
+  margin: 1rem;
+  padding: 1rem;
+}
+.box {
+  position: absolute;
+  top: 50%;
+  width: 20px;
+  height: 20px;
+  border: 1px solid black;
+}
+.fire {
+  position: absolute;
+  width: 2px;
+  height: 5px;
+  background: red;
+}
